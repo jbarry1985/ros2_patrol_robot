@@ -1,4 +1,4 @@
-# 基于 ROS 2 和 Navigation 2 自动巡检机器人
+# 基于ROS 2和Navigation 2自动巡检机器人
 
 ## 1.项目介绍
 
